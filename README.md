@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on
-  - find-my-mines
+  - starGFX's commission website
   - soulgood
 - 🌱 I’m currently learning
   - Ruby on Rails
