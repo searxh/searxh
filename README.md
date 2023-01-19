@@ -1,10 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on
+  - Triplan
+  - Soulgood team's interactive game project
   - StarsGFX's commission website
-  - soulgood team's project
 - 🌱 I’m currently learning
-  - Ruby on Rails
   - VueJS
+  - Next.js
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=searxh&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&card_width=400px" />
