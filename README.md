@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on
-  - Triplan
+  - Triplan Capstone Project
   - Soulgood team's interactive game project
   - StarsGFX's commission website
 - 🌱 I’m currently learning
